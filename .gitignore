@@ -1,0 +1,10 @@
+.zig-cache/
+mindgrid-toolchain/
+output/
+report_assets/
+tmp/
+mindgrid.exe
+mindgrid.pdb
+profile.txt
+__pycache__/
+*.py[cod]
